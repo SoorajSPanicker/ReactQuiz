@@ -1,0 +1,56 @@
+{
+    "questions":[
+        {
+            "Q": "What is ReactJS?",
+            "options": [
+              { "id": 0, "text": "Server-side framework", "isCorrect": false },
+              { "id": 1, "text": "User interface framework", "isCorrect": true},
+              { "id": 2, "text": "both a and b", "isCorrect": false },
+              { "id": 3, "text": "None of the above", "isCorrect": false }
+            ]
+          },
+          {
+            "Q": "Identify the one which is used to pass data to components from outside",
+            "options": [
+              { "id": 0, "text": "Render with arguments", "isCorrect": false},
+              { "id": 1, "text": "setState", "isCorrect": false },
+              { "id": 2, "text": "PropTypes", "isCorrect": false },
+              { "id": 3, "text": "props", "isCorrect": true }
+            ]
+            
+            
+          },
+          {
+            "Q": "In which language is React.js written?",
+            "options": [
+              { "id": 0, "text": "Python", "isCorrect": false },
+              { "id": 1, "text": "JavaScript", "isCorrect": true },
+              { "id": 2, "text": "Java", "isCorrect": false},
+              { "id": 3, "text": "PHP", "isCorrect": false }
+            ]
+            
+          },
+          {
+            "Q": "Which company developed ReactJS?",
+            "options": [
+              { "id": 0, "text": "Apple", "isCorrect": false },
+              { "id": 1, "text": "Google", "isCorrect": false},
+              { "id": 2, "text": "Facebook", "isCorrect": true },
+              { "id": 3, "text": "Twitter", "isCorrect": false }
+            ]
+            
+          },
+          {
+            "Q": "What is true for the keys given to a list of elements in React?",
+            "options": [
+              { "id": 0, "text": "Unique in the DOM.", "isCorrect": false },
+              { "id": 1, "text": "Unique among the siblings only.", "isCorrect": true},
+              { "id": 2, "text": "Do not require to be unique.", "isCorrect": false},
+              { "id": 3, "text": "None of the above.", "isCorrect": false}
+            ]
+            
+          }
+        
+
+    ]
+}
