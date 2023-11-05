@@ -1,3 +1,4 @@
+
 li {
     background-color: darkseagreen;
     padding: 15px;
@@ -6,4 +7,19 @@ li {
     font-size: 15px;
     margin-top: 10px;
 }
+ul{
+    list-style: none;
+    width: 50%;
+}
+.wi{
+    width: 50%;
+}
 
+@media (min-width: 500px) {
+   ul{
+    width: 75%;
+   }
+   .wi{
+    width: 50%;
+}
+  }
